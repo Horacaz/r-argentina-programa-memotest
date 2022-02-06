@@ -1,0 +1,14 @@
+{
+  "name": "r-argentina-programa-memotest",
+  "version": "1.0.0",
+  "description": "Memotest. Clase 11 r/argentina programa.",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Horacio Cazavant",
+  "license": "MIT",
+  "dependencies": {
+    "bootstrap": "^5.1.3"
+  }
+}

@@ -1,0 +1,23 @@
+#grid{
+    width: 500px;
+}
+
+.memo div{
+    width: 125px;
+    height: 125px;
+}
+
+.memo div img{
+    width: 100%;
+    height: 100%;
+ 
+}
+#oculto {
+    opacity: 0;
+    transition-duration: 1500ms;
+}
+
+#visible {
+    opacity: 1;
+    transition-duration: 1500ms;
+}
